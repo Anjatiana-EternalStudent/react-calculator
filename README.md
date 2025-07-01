@@ -2,6 +2,7 @@
 
 Une calculatrice simple réalisée avec React.
 
+[Voir la calculatrice en ligne](https://anjatiana-react-calculator.vercel.app/)
 ## Fonctionnalités
 
 - Addition, soustraction, multiplication et division
